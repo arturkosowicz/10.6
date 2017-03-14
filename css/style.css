@@ -1,0 +1,19 @@
+body {
+	margin: 0;
+	height: 100vh;
+	background: linear-gradient(lightgreen, lightblue);
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.btn-delete {
+	margin: 5px 2px 5px 0;
+}
+
+.column-card-list, .ui-sortable {
+	min-height: 10px;
+}
